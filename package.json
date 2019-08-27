@@ -1,0 +1,23 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "here i am getting started with git and learning its commands ... This is the readme of my project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambhavjain9138/getting-started.git"
+  },
+  "author": "sambhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sambhavjain9138/getting-started/issues"
+  },
+  "homepage": "https://github.com/sambhavjain9138/getting-started#readme",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  }
+}
